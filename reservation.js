@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     body += 'Merci !\n';
   
     const link = 'https://mail.google.com/mail/?view=cm&fs=1'
-      + `&to=${encodeURIComponent('exauceemkabamba@gmail.com')}`
+      + `&to=${encodeURIComponent('exau.mbuyi@icloud.com')}`
       + `&su=${encodeURIComponent('Réservation coiffure')}`
       + `&body=${encodeURIComponent(body)}`
       + `&tf=1`;
@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
     body += `Merci et à bientôt !\n`;
   
-    const email   = 'exauceemkabamba@gmail.com';
+    const email   = 'exau.mbuyi@icloud.com';
     const subject = 'Demande de réservation coiffure';
     const gmailLink =
       'https://mail.google.com/mail/?view=cm&fs=1' +
